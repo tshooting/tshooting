@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/plotTrajectory.dir/plotTrajectory.cpp.o  -o plotTrajectory -Wl,-rpath,/usr/local/lib /usr/local/lib/libpangolin.so -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lX11 -lXext -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lX11 -lXext 
